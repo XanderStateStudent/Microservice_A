@@ -22,5 +22,5 @@ There is not data that is received to the program directly. The only received da
 
 * UML sequence diagram showing how requesting and receiving data works. Make it detailed enough that your teammate (and your grader) will understand.
 
-  (INSERT IMAGE OF DIAGRAM)
-  [image of UML diagram]/UML.Diagram.png
+
+![UML Diagram](https://github.com/user-attachments/assets/f9f7cf61-14a3-49c0-827b-f84f462a8aa7)
